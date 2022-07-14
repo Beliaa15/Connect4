@@ -8,10 +8,10 @@ Next, tuns are exchanged between players and this process repeats until four che
 ## Program Screenshots:
 
 **Game interface:**
-![](Screenshot (81).png)
+![](https://github.com/Beliaa15/Connect4/blob/main/Screenshot%20(81).png)
 
 **User Gameplay:**
-![](Screenshot (82).png)
+![](https://github.com/Beliaa15/Connect4/blob/main/Screenshot%20(82).png)
 
 **End of game:**
-![](Screenshot (83).png)
+![](https://github.com/Beliaa15/Connect4/blob/main/Screenshot%20(83).png)
