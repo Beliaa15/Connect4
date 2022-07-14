@@ -5,6 +5,8 @@ Currently this project is a two player game where the users are playing against 
 The program uses two dimensional arrays to create the playing board and takes inputs from users to place the checkers. 
 Next, tuns are exchanged between players and this process repeats until four checkers have been placed side by side and a winner can be determined.
 
+P.S.: working on a player vs computer mode!
+
 ## Program Screenshots:
 
 **Game interface:**
