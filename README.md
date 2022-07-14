@@ -2,8 +2,8 @@
 C++ project based on the popular Connect 4 game.
 
 Currently this project is a two player game where the users are playing against each other. 
-The program uses two dimensional arrays to create the playing board and takes inputs from users to place the checkers. 
-Next, tuns are exchanged between players and this process repeats until four checkers have been placed side by side and a winner can be determined.
+The program uses two dimensional array to create the playing board and takes input from users to place the checkers. 
+Next, turns are exchanged between players and this process repeats until four checkers have been placed side by side and a winner is determined.
 
 P.S.: working on a player vs computer mode!
 
